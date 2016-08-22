@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning", "MachineLearning\MachineLearning.csproj", "{8225AC03-FBFE-4E34-B890-4D259B5E6782}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FSharp", "FSharp\FSharp.fsproj", "{462E8A72-0CE1-4D34-AFEB-40665AC42319}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Visualization", "Visualization\Visualization.fsproj", "{6BB3B043-C9CF-40DE-B597-495F2A55F328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +17,13 @@ Global
 		{8225AC03-FBFE-4E34-B890-4D259B5E6782}.Debug|x86.Build.0 = Debug|x86
 		{8225AC03-FBFE-4E34-B890-4D259B5E6782}.Release|x86.ActiveCfg = Release|x86
 		{8225AC03-FBFE-4E34-B890-4D259B5E6782}.Release|x86.Build.0 = Release|x86
+		{462E8A72-0CE1-4D34-AFEB-40665AC42319}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{462E8A72-0CE1-4D34-AFEB-40665AC42319}.Debug|x86.Build.0 = Debug|Any CPU
+		{462E8A72-0CE1-4D34-AFEB-40665AC42319}.Release|x86.ActiveCfg = Release|Any CPU
+		{462E8A72-0CE1-4D34-AFEB-40665AC42319}.Release|x86.Build.0 = Release|Any CPU
+		{6BB3B043-C9CF-40DE-B597-495F2A55F328}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6BB3B043-C9CF-40DE-B597-495F2A55F328}.Debug|x86.Build.0 = Debug|Any CPU
+		{6BB3B043-C9CF-40DE-B597-495F2A55F328}.Release|x86.ActiveCfg = Release|Any CPU
+		{6BB3B043-C9CF-40DE-B597-495F2A55F328}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
